@@ -1,0 +1,207 @@
+Your Workout Plan
+
+Generated on: 04/05/2025
+
+Monday
+======
+
+Seated Military Press (Dumbbell)
+Sets: 3
+Reps: 10
+Weight: 180
+
+Sling Shot Bench
+Sets: 2
+Reps: 5
+Weight: 330
+
+Leg press
+Sets: 3
+Reps: 12
+Weight: 550
+
+Leg press (hinge )
+Sets: 2
+Reps: 9
+Weight: 720
+
+Incline Press (Dumbbell)
+Sets: 3
+Reps: 8
+Weight: 210
+
+
+Tuesday
+=======
+
+Hammer Row - Wide Grip
+Sets: 1
+Reps: 9
+Weight: 270
+
+T-bar Row
+Sets: 3
+Reps: 8
+Weight: 140
+
+Hammer seated row (CLOSE GRIP)
+Sets: 1
+Reps: 10
+Weight: 280
+
+Lateral Raise (Dumbbells)
+Sets: 2
+Reps: 12
+Weight: 70
+
+Rack Pull - 1 Pin
+Sets: 2
+Reps: 5
+Weight: 365
+
+
+Wednesday
+=========
+
+Bicep Curl (Dumbbell)
+Sets: 1
+Reps: 12
+Weight: 50
+
+Hammer Curl (Dumbbell )
+Sets: 2
+Reps: 8
+Weight: 80
+
+Tricep Extension
+Sets: 1
+Reps: 10
+Weight: 90
+
+Leg curl
+Sets: 1
+Reps: 12
+Weight: 150
+
+Curl Dumbbell
+Sets: 3
+Reps: 7
+Weight: 50
+
+
+Thursday
+========
+
+Seated Military Press
+Sets: 8
+Reps: 8
+Weight: 220
+
+Overhead Press (Barbell)
+Sets: 2
+Reps: 10
+Weight: 195
+
+Seated Shoulder  Press (Barbell)
+Sets: 7
+Reps: 6
+Weight: 245
+
+Seated Military Press (Dumbbell)
+Sets: 3
+Reps: 10
+Weight: 180
+
+Rear delt fly
+Sets: 1
+Reps: 10
+Weight: 145
+
+
+Friday
+======
+
+Romanian Deadlift (Barbell)
+Sets: 4
+Reps: 6
+Weight: 265
+
+Front Squat (Barbell)
+Sets: 5
+Reps: 4
+Weight: 225
+
+Deadlift - Trap Bar
+Sets: 3
+Reps: 5
+Weight: 365
+
+Hack Squat
+Sets: 6
+Reps: 8
+Weight: 300
+
+Squat (Barbell)
+Sets: 8
+Reps: 6
+Weight: 2956
+
+
+Saturday
+========
+
+Seated Shoulder  Press (Barbell)
+Sets: 7
+Reps: 6
+Weight: 245
+
+Seated Military Press (Dumbbell)
+Sets: 3
+Reps: 10
+Weight: 180
+
+Incline Press (Dumbbell)
+Sets: 3
+Reps: 8
+Weight: 210
+
+Leg press (hinge )
+Sets: 2
+Reps: 9
+Weight: 720
+
+Seated Military Press
+Sets: 8
+Reps: 8
+Weight: 220
+
+
+Sunday
+======
+
+Neutral Chin
+Sets: 3
+Reps: 8
+Weight: 70.5
+
+Lateral Raise (Dumbbell)
+Sets: 1
+Reps: 15
+Weight: 40
+
+Seated Cable Row (close Grip)
+Sets: 4
+Reps: 10
+Weight: 210
+
+Hammer seated row
+Sets: 4
+Reps: 10
+Weight: 165
+
+Hammer Row - Wide Grip
+Sets: 1
+Reps: 9
+Weight: 270
+
+

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+pydantic-settings
+openai
+pandas 
+scikit-learn
+langdetect
+requests

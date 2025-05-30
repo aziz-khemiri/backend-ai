@@ -1,0 +1,401 @@
+
+      <html>
+        <head>
+          <style>
+            body { font-family: Arial, sans-serif; padding: 20px; }
+            h1 { color: #4C1D95; text-align: center; }
+            h2 { color: #6D28D9; margin-top: 20px; }
+            .exercise { margin: 10px 0; padding: 10px; background: #f5f5f5; border-radius: 5px; }
+            .exercise-title { font-weight: bold; color: #333; }
+            .exercise-details { margin-left: 15px; }
+          </style>
+        </head>
+        <body>
+          <h1>Your Workout Plan</h1>
+          <p>Generated on: 04/05/2025</p>
+    <h2>Monday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Seated Military Press (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 10</p>
+                <p>Weight: 180</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Sling Shot Bench</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 5</p>
+                <p>Weight: 330</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Leg press</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 12</p>
+                <p>Weight: 550</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Leg press (hinge )</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 9</p>
+                <p>Weight: 720</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Incline Press (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 8</p>
+                <p>Weight: 210</p>
+                
+                
+              </div>
+            </div>
+          <h2>Tuesday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Hammer Row - Wide Grip</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 9</p>
+                <p>Weight: 270</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">T-bar Row</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 8</p>
+                <p>Weight: 140</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Hammer seated row (CLOSE GRIP)</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 10</p>
+                <p>Weight: 280</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Lateral Raise (Dumbbells)</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 12</p>
+                <p>Weight: 70</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Rack Pull - 1 Pin</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 5</p>
+                <p>Weight: 365</p>
+                
+                
+              </div>
+            </div>
+          <h2>Wednesday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Bicep Curl (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 12</p>
+                <p>Weight: 50</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Hammer Curl (Dumbbell )</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 8</p>
+                <p>Weight: 80</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Tricep Extension</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 10</p>
+                <p>Weight: 90</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Leg curl</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 12</p>
+                <p>Weight: 150</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Curl Dumbbell</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 7</p>
+                <p>Weight: 50</p>
+                
+                
+              </div>
+            </div>
+          <h2>Thursday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Seated Military Press</div>
+              <div class="exercise-details">
+                <p>Sets: 8</p>
+                <p>Reps: 8</p>
+                <p>Weight: 220</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Overhead Press (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 10</p>
+                <p>Weight: 195</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Seated Shoulder  Press (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 7</p>
+                <p>Reps: 6</p>
+                <p>Weight: 245</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Seated Military Press (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 10</p>
+                <p>Weight: 180</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Rear delt fly</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 10</p>
+                <p>Weight: 145</p>
+                
+                
+              </div>
+            </div>
+          <h2>Friday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Romanian Deadlift (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 4</p>
+                <p>Reps: 6</p>
+                <p>Weight: 265</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Front Squat (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 5</p>
+                <p>Reps: 4</p>
+                <p>Weight: 225</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Deadlift - Trap Bar</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 5</p>
+                <p>Weight: 365</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Hack Squat</div>
+              <div class="exercise-details">
+                <p>Sets: 6</p>
+                <p>Reps: 8</p>
+                <p>Weight: 300</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Squat (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 8</p>
+                <p>Reps: 6</p>
+                <p>Weight: 2956</p>
+                
+                
+              </div>
+            </div>
+          <h2>Saturday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Seated Shoulder  Press (Barbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 7</p>
+                <p>Reps: 6</p>
+                <p>Weight: 245</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Seated Military Press (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 10</p>
+                <p>Weight: 180</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Incline Press (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 8</p>
+                <p>Weight: 210</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Leg press (hinge )</div>
+              <div class="exercise-details">
+                <p>Sets: 2</p>
+                <p>Reps: 9</p>
+                <p>Weight: 720</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Seated Military Press</div>
+              <div class="exercise-details">
+                <p>Sets: 8</p>
+                <p>Reps: 8</p>
+                <p>Weight: 220</p>
+                
+                
+              </div>
+            </div>
+          <h2>Sunday</h2>
+            <div class="exercise">
+              <div class="exercise-title">Neutral Chin</div>
+              <div class="exercise-details">
+                <p>Sets: 3</p>
+                <p>Reps: 8</p>
+                <p>Weight: 70.5</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Lateral Raise (Dumbbell)</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 15</p>
+                <p>Weight: 40</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Seated Cable Row (close Grip)</div>
+              <div class="exercise-details">
+                <p>Sets: 4</p>
+                <p>Reps: 10</p>
+                <p>Weight: 210</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Hammer seated row</div>
+              <div class="exercise-details">
+                <p>Sets: 4</p>
+                <p>Reps: 10</p>
+                <p>Weight: 165</p>
+                
+                
+              </div>
+            </div>
+          
+            <div class="exercise">
+              <div class="exercise-title">Hammer Row - Wide Grip</div>
+              <div class="exercise-details">
+                <p>Sets: 1</p>
+                <p>Reps: 9</p>
+                <p>Weight: 270</p>
+                
+                
+              </div>
+            </div>
+          </body></html>
