@@ -8,7 +8,7 @@ from app.services.diabetes_service import predict_diabetes
 router = APIRouter()
 
 # Utiliser une variable d'environnement pour l'URL du backend Node.js
-NODE_DIABETES_URL = os.getenv("NODE_DIABETES_URL", "http://localhost:5000/api/save")
+NODE_DIABETES_URL = os.getenv("NODE_DIABETES_URL", "https://back-6jw0.onrender.com/api/save")
 
 # Modèle de requête
 class DiabetesInput(BaseModel):
